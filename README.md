@@ -1,4 +1,4 @@
-Hi 👋 My name is Jirakrit T.
+Hi 👋 My name is Jirakrit Takerngpon
 ============================
 
 Developer Trainee
